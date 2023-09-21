@@ -1,4 +1,3 @@
-
 document.getElementById("W1D1").addEventListener("click", function () {
     document.getElementById("Vid").innerHTML = "<video class='lazy-video' src='/src/W1D1.mp4' controls></video>";
 });
